@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "804428852948",
+    "firebase_url": "https://yuana-salary-51b77.firebaseio.com",
+    "project_id": "yuana-salary-51b77",
+    "storage_bucket": "yuana-salary-51b77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804428852948:android:ba5598846a0c9f19aa9541",
+        "android_client_info": {
+          "package_name": "com.yuana.salary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804428852948-k9rm0oaa3bnn20b1evgjehhs5if5rcb0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgUEmj0VKTPlBVHS3CyE57mUrgx9XfYv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804428852948-k9rm0oaa3bnn20b1evgjehhs5if5rcb0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
